@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/welann/.xmake/packages/**"
+                "~/.xmake/packages/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
